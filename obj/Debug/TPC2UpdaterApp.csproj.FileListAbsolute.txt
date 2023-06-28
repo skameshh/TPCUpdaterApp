@@ -1,0 +1,676 @@
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\TPC2UpdaterApp.exe.config
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\TPC2UpdaterApp.exe
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\TPC2UpdaterApp.pdb
+C:\Users\h238397\source\repos\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.Form1.resources
+C:\Users\h238397\source\repos\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.Properties.Resources.resources
+C:\Users\h238397\source\repos\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.GenerateResource.cache
+C:\Users\h238397\source\repos\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.exe
+C:\Users\h238397\source\repos\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.pdb
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\log4net.config
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\netstandard.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.AppContext.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Collections.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.ComponentModel.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Console.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Data.Common.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Globalization.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.Compression.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Linq.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.Http.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.Ping.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.Requests.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.Security.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.ObjectModel.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Reflection.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Claims.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Principal.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Threading.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.ValueTuple.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\log4net.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Quartz.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Buffers.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Memory.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Permissions.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\log4net.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\Quartz.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Buffers.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Memory.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Permissions.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.exe.config
+C:\Users\h238397\source\repos\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.CopyComplete
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\ExcelDataReader.dll
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\ExcelDataReader.pdb
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\ExcelDataReader.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\h238397\source\repos\TPC2UpdaterApp\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\h238397\source\repos\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.Forms.PlannerImport.resources
+C:\Users\h238397\source\repos\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.CoreCompileInputs.cache
+C:\Users\h238397\source\repos\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csprojAssemblyReference.cache
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.exe.config
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.Form1.resources
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.Forms.PlannerImport.resources
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.Properties.Resources.resources
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.GenerateResource.cache
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.CoreCompileInputs.cache
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.exe
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.pdb
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\log4net.config
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\TPC2UpdaterApp.exe.config
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\TPC2UpdaterApp.exe
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\TPC2UpdaterApp.pdb
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\netstandard.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.AppContext.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Collections.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.ComponentModel.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Console.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Data.Common.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Globalization.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.Compression.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Linq.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.Http.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.Ping.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.Requests.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.Security.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.ObjectModel.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Reflection.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Claims.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Principal.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Threading.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.ValueTuple.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\log4net.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Quartz.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Buffers.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Memory.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Permissions.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.pdb
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\log4net.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\Quartz.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Buffers.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Memory.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Permissions.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.CopyComplete
+C:\Users\h238397\source\repos-TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csprojAssemblyReference.cache
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\log4net.config
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\TPC2UpdaterApp.exe.config
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\TPC2UpdaterApp.exe
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\TPC2UpdaterApp.pdb
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\netstandard.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.AppContext.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Collections.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.ComponentModel.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Console.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Data.Common.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Globalization.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.Compression.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Linq.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.Http.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.Ping.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.Requests.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.Security.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.ObjectModel.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Reflection.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Claims.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Principal.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Threading.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.ValueTuple.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\log4net.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Quartz.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Buffers.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Memory.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Permissions.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.pdb
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\log4net.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\Quartz.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Buffers.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Memory.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Permissions.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.exe.config
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.Form1.resources
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.Forms.PlannerImport.resources
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.Properties.Resources.resources
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.GenerateResource.cache
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.CoreCompileInputs.cache
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.CopyComplete
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.exe
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.pdb
+C:\Users\h238397\OneDrive - Halliburton\HAL-Projects\TPC\TPC2UpdaterApp\obj\Debug\TPC2UpdaterApp.csprojAssemblyReference.cache
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\log4net.config
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\TPC2UpdaterApp.exe.config
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\TPC2UpdaterApp.exe
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\TPC2UpdaterApp.pdb
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\netstandard.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.AppContext.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Collections.Concurrent.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Collections.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Collections.Specialized.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.ComponentModel.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Console.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Data.Common.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.Process.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Drawing.Primitives.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Globalization.Calendars.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Globalization.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Globalization.Extensions.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.Compression.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.FileSystem.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.Pipes.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Linq.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Linq.Expressions.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Linq.Parallel.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Linq.Queryable.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.Http.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.NameResolution.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.Ping.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.Primitives.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.Requests.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.Security.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.Sockets.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Net.WebSockets.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.ObjectModel.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Reflection.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Reflection.Extensions.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Reflection.Primitives.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Resources.Reader.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Resources.Writer.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.Extensions.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.Handles.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.Numerics.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Claims.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Principal.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.SecureString.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Text.Encoding.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Threading.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Threading.Overlapped.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Threading.Tasks.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Threading.Thread.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Threading.Timer.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.ValueTuple.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Xml.XDocument.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Xml.XPath.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\ExcelDataReader.DataSet.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\ExcelDataReader.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\log4net.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.Identity.Client.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Newtonsoft.Json.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Quartz.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Buffers.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Memory.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Numerics.Vectors.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.AccessControl.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Permissions.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\ExcelDataReader.pdb
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\ExcelDataReader.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\ExcelDataReader.DataSet.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\log4net.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.Identity.Client.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Newtonsoft.Json.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\Quartz.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Buffers.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Memory.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Numerics.Vectors.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.AccessControl.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Permissions.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\temp\TPC\C#\TPCUpdaterApp\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\temp\TPC\C#\TPCUpdaterApp\obj\Debug\TPC2UpdaterApp.exe.config
+C:\temp\TPC\C#\TPCUpdaterApp\obj\Debug\TPC2UpdaterApp.Form1.resources
+C:\temp\TPC\C#\TPCUpdaterApp\obj\Debug\TPC2UpdaterApp.Forms.PlannerImport.resources
+C:\temp\TPC\C#\TPCUpdaterApp\obj\Debug\TPC2UpdaterApp.Properties.Resources.resources
+C:\temp\TPC\C#\TPCUpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.GenerateResource.cache
+C:\temp\TPC\C#\TPCUpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.CoreCompileInputs.cache
+C:\temp\TPC\C#\TPCUpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.CopyComplete
+C:\temp\TPC\C#\TPCUpdaterApp\obj\Debug\TPC2UpdaterApp.exe
+C:\temp\TPC\C#\TPCUpdaterApp\obj\Debug\TPC2UpdaterApp.pdb
+C:\temp\TPC\C#\TPCUpdaterApp\obj\Debug\TPC2UpdaterApp.csproj.AssemblyReference.cache
